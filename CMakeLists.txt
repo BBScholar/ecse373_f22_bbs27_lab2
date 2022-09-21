@@ -13,6 +13,8 @@ find_package(catkin REQUIRED COMPONENTS
   sensor_msgs
   urdf
   xacro
+  velodyne_description
+  gazebo_plugins
 )
 
 ## System dependencies are found with CMake's conventions
